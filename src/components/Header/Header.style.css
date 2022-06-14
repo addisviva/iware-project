@@ -1,0 +1,26 @@
+.header {
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.header_rights {
+    position: fixed;
+    display: flex;
+    top: 20px;
+    left: 12px;
+
+}
+
+.iware_text {
+    margin-top: 0;
+}
+
+.cart {
+    position: fixed;
+
+    top: 20px;
+    right: -2px;
+}
